@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 I'm a software engineer passionate about AI and hardware including, robots and automobiles.
 
-- 👩🏻‍🎓 Sophomore @ the University of Illinois at Chicago
+- 👩🏻‍🎓 Sophomore @ University of Illinois at Chicago
 - 🎓 Majoring in Computer Science + Minor in Computer Engineering
 - 👩🏻‍💼 Secretary & Social Media Outreach chair at ACM@UIC
 - 👩🏻‍🏫 Working as a CS Tutor at the Engineering Learning Center
