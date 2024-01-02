@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi, I'm Khin Yuupar Myat 👩🏻 
 <!--
 **hera-myat/hera-myat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a software engineer who is passionate about AI and hardware including, robots and automobile.
