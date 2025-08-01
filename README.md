@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hera-myat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=hera-myat&theme=github-dark-blue&border_radius=4.4" alt="GitHub Streak" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hera-myat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="180"/>
 </div>
 
 ## 📬 Contact
