@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 - Former Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
 - Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
 - CS + ECE Tutor @ UIC Engineering Learning Center 
-- Check out my LinkedIn for more interesting facts about me!
+- Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more interesting facts about me!  
   - <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
-  <img src="https://img.shields.io/badge/Followers-895-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  - 🛠 Personal Website: [work-in-progress]
+  <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
+    <img src="https://img.shields.io/badge/Followers-895-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
+  </a>
+
+- 🛠 Personal Website: [work-in-progress]
 
 ## 👩🏻‍💻 Tech Stack
 
