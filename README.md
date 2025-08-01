@@ -27,22 +27,24 @@ Here are some ideas to get you started:
 
 ## 👩🏻‍💻 Tech Stack
 
-- **Languages:** Python, Java, JavaScript, HTML/CSS, C++, C, C#, SQL
-- **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
-- **Systems:** Linux, Bash
-- **Tools:** Google Cloud, GitHub, VS Code, Intellij IDEA, Sublime Text
-- **Creative Software:** Unity, Maya, Adobe Creative Cloud, Canva, Twine
+- **Languages:** Python, Java, JavaScript, HTML/CSS, C++, C, C#, SQL  
+- **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn  
+- **Systems:** Linux, Bash  
+- **Tools:** Google Cloud, GitHub, VS Code, IntelliJ IDEA, Sublime Text  
+- **Others:** Unity, Maya, Adobe Creative Cloud, Canva, Twine
 
 ## 👩🏻‍💻 Skills 
 
-- Full-Stack Development, AI & ML, Data Analysis, UI/UX, Computer Graphics, Cybersecurity, Graphic Design,
-Product Design, Research, Project Management, Strategic Planning, Digital Marketing, Content Creation, Photography
+- **Technical:** Full-Stack Development, AI & ML, Data Analysis, UI/UX, Computer Graphics, Cybersecurity
+- **Creative:** Graphic Design, Product Design, Digital Marketing, Content Creation, Photography
+- **Others:** Research, Project Management, Strategic Planning
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hera-myat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Yuupar's GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hera-myat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hera-myat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Yuupar's GitHub Statistics" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hera-myat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="180"/>
+</div>
 
 ## 📬 Contact
 
