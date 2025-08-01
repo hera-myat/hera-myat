@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 - Former Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
 - Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
 - CS + ECE Tutor @ UIC Engineering Learning Center
-
 - Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more interesting facts about me!
-🛠 Personal Website: [work-in-progress] 🛠
+- 🛠 Personal Website: [work-in-progress] 🛠
 
 ## 👩🏻‍💻 Tech Stack
 
