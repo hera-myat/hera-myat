@@ -1,4 +1,3 @@
-### Hi, I'm Khin Yuupar Myat 👩🏻 
 <!--
 **hera-myat/hera-myat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,16 +12,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software engineer passionate about AI and hardware including, robots and automobiles.
+# Khin Yuupar Myat 
+---
+**Bridging the gap between engineering precision and artistic expression.**
 
-- 👩🏻‍🎓 Junior @ University of Illinois at Chicago
-- 🎓 Majoring in Computer Science + Minors in Mathematics & Art
+<hr style="height:3px; background-color:#444; border:none;" />
 
-- 👩🏻‍🏫 Former Machine Learning Intern @ Illinois Department of Transportation
-- 👩🏻‍🏫 Working as a CS Tutor at the Engineering Learning Center
+# 👾 About Me
+---
+- Rising Senior @ University of Illinois Chicago
+- Major in Computer Science + Minors in Mathematics & Art
+- Former Machine Learning Intern @ Illinois Department of Transportation [IDOT](https://idot.illinois.gov/)
+- Vice President @ Women in Cybersecurity - UIC Chapter [WiCyS](https://www.instagram.com/wicysatuic/)
+- CS + ECE Tutor @ UIC Engineering Learning Center 
+- Check out my LinkedIn for more interesting facts about me!
 
-- 👩🏻‍💼 Social Media Outreach chair + Tech Lead + Creative Designer at ACM@UIC
-- 👩🏻‍💼 Secretary at WiCYS UIC
-- 👩🏻‍💼 Outreach Specialist & Designer at Sparkhacks UIC
+<a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
+  <img src="https://img.shields.io/badge/Followers-895-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
+</a>
 
+- 🛠 Personal Website: [work-in-progress]
+
+<hr style="height:3px; background-color:#444; border:none;" />
+
+# 👾 Tech Stack
+---
+- **Languages:** Python, Java, JavaScript, HTML/CSS, C++, C, C#, SQL
+- **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
+- **Systems:** Linux, Bash
+- **Tools:** Google Cloud, GitHub, VS Code, Intellij IDEA, Sublime Text
+- **Creative Software:** Unity, Maya, Adobe Creative Cloud, Canva, Twine
+
+<hr style="height:3px; background-color:#444; border:none;" />
+
+# 👾 Skills 
+---
+- Full-Stack Development, AI & ML, Data Analysis, UI/UX, Computer Graphics, Cybersecurity, Graphic Design,
+Product Design, Research, Project Management, Strategic Planning, Digital Marketing, Content Creation, Photography
+
+# 👾 GitHub Stats
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hera-myat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Yuupar's GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hera-myat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+# 👾 Contact
+---
 Reach out to me → yuuparmyat.hc0303@gmail.com
