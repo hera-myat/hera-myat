@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hera-myat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40&hide_rank=true" alt="Yuupar's GitHub Statistics" height="180"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hera-myat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="180"/>
 </div>
 
