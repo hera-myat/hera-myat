@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 - CS + ECE Tutor @ UIC Engineering Learning Center
 - Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more interesting facts about me!
 
+- <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
+  <img src="https://img.shields.io/badge/Followers-1.5k-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
+</a>
+
 🛠 Personal Website: [work-in-progress] 🛠
 
 ## 👩🏻‍💻 Tech-Stack
@@ -110,12 +118,8 @@ You Can Grow Here (YCGH) is a Unity-based VR experience for anxiety management, 
 
 ## 📬 Contact
 
-<a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+📧 Email: yuuparmyat.hc0303@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/khinyuuparmyat/
 
-<a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
-  <img src="https://img.shields.io/badge/Followers-1.5k-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
-</a>
 
 
