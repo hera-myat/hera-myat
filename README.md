@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hera-myat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=4078c0&icon_color=4078c0&text_color=4078c0&bg_color=00000000&hide_rank=true&hide_border=true" alt="Yuupar's GitHub Statistics" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hera-myat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=00000000&hide_rank=true" alt="Yuupar's GitHub Statistics" height="180"/>
 </div>
 
 <div align="center">
