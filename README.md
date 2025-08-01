@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 ---
 **Bridging the gap between engineering precision and artistic expression.**
 
-<hr style="height:3px; background-color:#444; border:none;" />
-
 # 👾 About Me
 ---
 - Rising Senior @ University of Illinois Chicago
