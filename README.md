@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 - 🛠 Personal Website: [work-in-progress]
 
-<hr style="height:3px; background-color:#444; border:none;" />
-
 # 👾 Tech Stack
 ---
 - **Languages:** Python, Java, JavaScript, HTML/CSS, C++, C, C#, SQL
@@ -43,8 +41,6 @@ Here are some ideas to get you started:
 - **Systems:** Linux, Bash
 - **Tools:** Google Cloud, GitHub, VS Code, Intellij IDEA, Sublime Text
 - **Creative Software:** Unity, Maya, Adobe Creative Cloud, Canva, Twine
-
-<hr style="height:3px; background-color:#444; border:none;" />
 
 # 👾 Skills 
 ---
