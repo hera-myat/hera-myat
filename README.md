@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Khin Yuupar Myat 
 **Bridging the gap between engineering precision and artistic expression.**
 
-## 👩🏻‍🎓 You've Found Me!
+## 👩🏻‍🔧 You've Found Me!
 
 - Rising Senior @ University of Illinois Chicago
 - Major in Computer Science + Minors in Mathematics & Art
@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 - Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
 - CS + ECE Tutor @ UIC Engineering Learning Center
 - Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more interesting facts about me!
-- 🛠 Personal Website: [work-in-progress] 🛠
 
-## 👩🏻‍💻 Tech Stack
+🛠 Personal Website: [work-in-progress] 🛠
+
+## 👩🏻‍💻 Tech-Stack
 
 - **Languages:** Python, Java, JavaScript, HTML/CSS, C++, C, C#, SQL, Go 
 - **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn  
@@ -39,11 +40,12 @@ Here are some ideas to get you started:
 - **Creative:** Graphic Design, Product Design, Digital Marketing, Content Creation, Photography
 - **Others:** Research, Project Management, Strategic Planning
 
-## 📰 Check out my latest publication!
+## 📰 Check out my Latest Publication!
 
 - [**You Can Grow Here: A Therapeutic VR Journey for Anxiety Management**](https://dl.acm.org/doi/10.1145/3721250.3743037)
+- You Can Grow Here (YCGH) is a Unity-based VR experience for anxiety management, combining immersive storytelling and design research. Featured at SIGGRAPH 2025 as a finalist, the project achieved 90% positive user feedback on its therapeutic impact.
 
-## 🎖 Explore my badges!
+## 🎖 Explore my Badges!
 
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -89,7 +91,7 @@ Here are some ideas to get you started:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hera-myat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=1124BB&text_color=ffffff&bg_color=00000000&hide_rank=true&show_title=true" alt="Yuupar's GitHub Statistics" height="180"/>
@@ -111,9 +113,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
+</a><a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
   <img src="https://img.shields.io/badge/Followers-850+-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
 </a>
 
