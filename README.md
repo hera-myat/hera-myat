@@ -42,8 +42,9 @@ Here are some ideas to get you started:
 
 ## 📰 Check out my Latest Publication!
 
-- [**You Can Grow Here: A Therapeutic VR Journey for Anxiety Management**](https://dl.acm.org/doi/10.1145/3721250.3743037)
-- You Can Grow Here (YCGH) is a Unity-based VR experience for anxiety management, combining immersive storytelling and design research. Featured at SIGGRAPH 2025 as a finalist, the project achieved 90% positive user feedback on its therapeutic impact.
+[**You Can Grow Here: A Therapeutic VR Journey for Anxiety Management**](https://dl.acm.org/doi/10.1145/3721250.3743037)
+
+You Can Grow Here (YCGH) is a Unity-based VR experience for anxiety management, combining immersive storytelling and design research. Featured at SIGGRAPH 2025 as a finalist, the project achieved 90% positive user feedback on its therapeutic impact.
 
 ## 🎖 Explore my Badges!
 
@@ -109,11 +110,11 @@ Here are some ideas to get you started:
 
 ## 📬 Contact
 
-📧 Email → yuuparmyat.hc0303@gmail.com
-
 <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a><a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
-  <img src="https://img.shields.io/badge/Followers-850+-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
 </a>
+<a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
+  <img src="https://img.shields.io/badge/Followers-1.5k-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
+</a>
+
 
