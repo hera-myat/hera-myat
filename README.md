@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Khin Yuupar Myat 
-**🌟 Bridging the gap between engineering precision and artistic expression.**
+**🌟 Bridging the gap between engineering precision and artistic expression!**
 
 # 👾 About Me
 ---
