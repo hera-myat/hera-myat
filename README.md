@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Khin Yuupar Myat 
 **Bridging the gap between engineering precision and artistic expression.**
 
-### 👩🏻‍🎓 About Me
+## 👩🏻‍🎓 About Me
 
 - Rising Senior @ University of Illinois Chicago
 - Major in Computer Science + Minors in Mathematics & Art
@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 - CS + ECE Tutor @ UIC Engineering Learning Center 
 - Check out my LinkedIn for more interesting facts about me! <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a> <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
+</a><a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
   <img src="https://img.shields.io/badge/Followers-895-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
 </a>
-- 🛠 Personal Website: [work-in-progress]
+-- 🛠 Personal Website: [work-in-progress]
 
 ## 👩🏻‍💻 Tech Stack
 
