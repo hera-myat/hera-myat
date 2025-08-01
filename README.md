@@ -89,7 +89,6 @@ Here are some ideas to get you started:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
 
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -113,6 +112,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank">
   <img src="https://img.shields.io/badge/Followers-850+-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
 </a>
