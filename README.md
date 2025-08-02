@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more interesting facts about me!
 
-<a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank"><img src="https://img.shields.io/badge/Followers-890+-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers"></a>
+<a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank"><img src="https://img.shields.io/badge/Followers-890+-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers"></a> <a href="https://github.com/hera-myat" target="_blank">
+  <img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-Follow-236ad3?style=for-the-badge&logo=github" />
+</a>
 
 ## 👩🏻‍💻 Tech-Stack
 
