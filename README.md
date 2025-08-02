@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Khin Yuupar Myat 
 **Bridging the gap between engineering precision and artistic expression.**
 
-## 👩🏻‍🎓 You've Found Me!
+## 👩🏻‍🎓 Hi, You've Found Me!
 
 - Rising Senior @ University of Illinois Chicago
 - Major in Computer Science + Minors in Mathematics & Art
@@ -47,7 +47,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more in
 
 [**You Can Grow Here: A Therapeutic VR Journey for Anxiety Management**](https://dl.acm.org/doi/10.1145/3721250.3743037)
 
-You Can Grow Here (YCGH) is a Unity-based VR experience for anxiety management, combining immersive storytelling and design research. Featured at SIGGRAPH 2025 as a finalist, the project achieved 90% positive user feedback on its therapeutic impact.
+**You Can Grow Here (YCGH)** is a Unity-based VR experience for anxiety management, combining immersive storytelling and design research. Featured at **SIGGRAPH 2025** as a finalist, the project achieved 90% positive user feedback on its therapeutic impact.
 
 ## 🎖 Explore my Badges!
 
