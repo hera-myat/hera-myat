@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 - Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
 - CS + ECE Tutor @ UIC Engineering Learning Center
 
+🛠 Personal Website: [work-in-progress] 🛠
+
 Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more interesting facts about me!
 
 <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank"><img src="https://img.shields.io/badge/Followers-890+-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers"></a>
-
-🛠 Personal Website: [work-in-progress] 🛠
 
 ## 👩🏻‍💻 Tech-Stack
 
@@ -114,6 +114,7 @@ You Can Grow Here (YCGH) is a Unity-based VR experience for anxiety management, 
 ## 📬 Contact
 
 📧 Email: yuuparmyat.hc0303@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/khinyuuparmyat/
 
 
