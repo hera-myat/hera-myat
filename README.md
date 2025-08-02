@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Khin Yuupar Myat 
 **Bridging the gap between engineering precision and artistic expression.**
 
-## Hi, You've Found Me!
+## 👩🏻 Hi, You've Found Me!
 
 - Rising Senior @ University of Illinois Chicago
 - Major in Computer Science + Minors in Mathematics & Art
