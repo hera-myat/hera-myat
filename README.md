@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - Major in Computer Science + Minors in Mathematics & Art
 - Former Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
 - Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
-- CS + ECE Tutor @ UIC Engineering Learning Center
 
 🛠 Personal Website: [coming-soon] 🛠
 
