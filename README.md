@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🛠 Personal Website: [coming-soon] 🛠
 
-🪼 Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more interesting facts about me! 🪼
+Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more interesting facts about me!
 
 <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.linkedin.com/in/khinyuuparmyat/" target="_blank"><img src="https://img.shields.io/badge/Followers-890+-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers"></a>
 
