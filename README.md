@@ -109,7 +109,3 @@ Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more in
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hera-myat&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=1124BB&bg_color=000000" alt="Top Languages" height="180"/>
 </div>
-
-## 📬 Contact
-
-📧 Email: yuuparmyat.hc0303@gmail.com
