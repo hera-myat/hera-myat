@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ## 👩🏻 You've Found Me!
 
-- Rising Senior @ University of Illinois Chicago
+- Senior @ University of Illinois Chicago
 - Major in Computer Science + Minors in Mathematics & Art
+- AI & ML Fellow @ [Salesforce](https://www.salesforce.com/)
 - Former Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
 - Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
 
