@@ -48,7 +48,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more in
 
 - 🥽 Conducted VR research using UIC's EVL CAVE2™ system.
 - 📱 Developed 2 VR and 1 AR applications for head-mounted displays.
-- 🎮 Led the development of a game project as Project Manager, selected among the top 65 proposals.
+- 🎮 Led the development of a game project as Project Manager, selected among the 65 proposals.
 - 👩‍🏫 Tutored ECE, Linux, and Computer Design at UIC's Engineering Learning Center for 3 years.
 - 👩‍🏫 Served as an Undergraduate Teaching Assistant for a 400-level Creative Coding course, supporting both undergraduate and graduate students in the development of VR projects.
 - 📊 Scored in the 90th percentile on the Computer Science Major Field Test (CS MFT).
