@@ -60,11 +60,9 @@ Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more in
 
 **You Can Grow Here (YCGH)** is a Unity-based VR experience for anxiety management, combining immersive storytelling and design research. Featured at **SIGGRAPH 2025** as a finalist, the project achieved 90% positive user feedback on its therapeutic impact.
 
-## 👀 Another Publication On The Way.... 
+## 👀 Another Publication On The Way .... 
 
-**You Can Grow Here (YCGH)** has been accepted to the HCII 2026 Student Design Competition as one of thirty-three selected video submissions to be presented at the conference in Montreal, Canada.
-
-🔗 [View Student Design Competition Videos](https://2026.hci.international/Student_Design_Competition-Video_Presentations.html)
+**You Can Grow Here (YCGH)** has been accepted to the HCII 2026 Student Design Competition as one of [thirty-three selected video submissions](https://2026.hci.international/Student_Design_Competition-Video_Presentations.html) to be presented at the conference in Montreal, Canada.
 
 ## 🎖 Explore my Badges!
 
