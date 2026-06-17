@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 
 ## 👩🏻 You've Found Me!
 
-- Senior @ University of Illinois Chicago
-- Major in Computer Science + Minors in Mathematics & Art
-- AI & Machine Learning Fellow @ [Salesforce](https://www.salesforce.com/)
+- Class of 2026 @ University of Illinois Chicago 
+- Major in Computer Science + Dean's List
+- Academic Excellence Scholarship for 4 years @ University of Illinois Chicago
+- Prev. AI & Machine Learning Fellow @ [Salesforce](https://www.salesforce.com/)
 - Former Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
-- Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
+- Recipient of Machine Learning Certificate & $2k Scholarship @ Cornell Tech
+- Second Place Winner @ WiDS Datathon 2026 among Break Through Tech AI Fellows
+- Retired Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
 
 🛠 Personal Website: [coming-soon] 🛠
 
@@ -32,16 +35,22 @@ Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more in
 ## 👩🏻‍💻 Tech-Stack
 
 - **Languages:** Python, Java, JavaScript, HTML/CSS, C++, C, C#, SQL, Go 
-- **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn  
+- **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, Codex, Ollama, OpenAI, Gemini, Anthropic
 - **Systems:** Linux, Bash  
-- **Tools:** Google Cloud, GitHub, VS Code, IntelliJ IDEA, Sublime Text  
+- **Tools:** Google Colab, GitHub, VS Code, XCode, IntelliJ IDEA, Sublime Text  
 - **Others:** Unity, Maya, p5.js, Twine, Adobe Creative Cloud, Canva
 
 ## 👩🏻‍💻 Skills 
 
-- **Technical:** Full-Stack Development, AI & ML, Data Analysis, UI/UX, Computer Graphics, Cybersecurity
+- **Technical:** Full-Stack Development, AI & ML, Data Analysis, UI/UX, VR/AR Development, Computer Vision, Game Development, Cybersecurity
 - **Creative:** Graphic Design, Product Design, Digital Marketing, Content Creation, Photography
 - **Others:** Research, Project Management, Strategic Planning
+
+## Extra Fun Facts
+
+- I have experience with the EVL CAVE2TM system at the University of Illinois Chicago, where I conducted my first VR research experience and helped both graduate and undergraduate students with their VR projects' development as an Undergraduate Teaching Assistant. I have also implemented 2 VR and 1 AR applications in a head-mounted display.
+- Project Manager for my first game, which was selected as one of the top project ideas among 65 projects.
+- 90th Percentile @ CSFT Examination
 
 ## 📰 Check out my Latest Publication!
 
