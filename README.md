@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 👩🏻 You've Found Me!
 
 - Bachelor's in Computer Science @ University of Illinois Chicago
-- Dean's List & Academic Excellence Scholarship for 4 years @ University of Illinois Chicago
+- Dean's List & Academic Excellence Scholarship for 4 Years @ University of Illinois Chicago
 - Recipient of Machine Learning Certificate & $2k Scholarship @ Cornell Tech
 - Prev. AI & Machine Learning Fellow @ [Salesforce](https://www.salesforce.com/)
 - Prev. Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
