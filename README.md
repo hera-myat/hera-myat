@@ -12,18 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Khin Yuupar (Hera) Myat 
+# Hera Myat 
 **Bridging the gap between engineering precision and artistic expression.**
 
 ## 👩🏻 You've Found Me!
 
-- Class of 2026 @ University of Illinois Chicago 
-- Major in Computer Science + Dean's List
-- Academic Excellence Scholarship for 4 years @ University of Illinois Chicago
-- Prev. AI & Machine Learning Fellow @ [Salesforce](https://www.salesforce.com/)
-- Former Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
+- Bachelor's in Computer Science @ University of Illinois Chicago
+- Dean's List & Academic Excellence Scholarship for 4 years @ UIC
 - Recipient of Machine Learning Certificate & $2k Scholarship @ Cornell Tech
-- Second Place Winner @ WiDS Datathon 2026 among Break Through Tech AI Fellows
+- Prev. AI & Machine Learning Fellow @ [Salesforce](https://www.salesforce.com/)
+- Prev. Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
 - Retired Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
 
 🛠 Personal Website: [coming-soon] 🛠
@@ -46,17 +44,23 @@ Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more in
 - **Creative:** Graphic Design, Product Design, Digital Marketing, Content Creation, Photography
 - **Others:** Research, Project Management, Strategic Planning
 
-## Extra Fun Facts
+## ⚡ Fun Facts
 
-- I have experience with the EVL CAVE2TM system at the University of Illinois Chicago, where I conducted my first VR research experience and helped both graduate and undergraduate students with their VR projects' development as an Undergraduate Teaching Assistant. I have also implemented 2 VR and 1 AR applications in a head-mounted display.
-- Project Manager for my first game, which was selected as one of the top project ideas among 65 projects.
-- 90th Percentile @ CSFT Examination
+- Conducted my first VR research experience with the EVL CAVE2™ system at the University of Illinois Chicago, where I supported graduate and undergraduate students in developing VR projects as an Undergraduate Teaching Assistant. I have also developed 2 VR and 1 AR applications for head-mounted displays.
+- Served as a Computer Science Tutor at UIC’s Engineering Learning Center for 3 years, mentoring students in ECE, Linux, and Computer Design courses.
+- Managed the development of my first game project, which was recognized as one of the top projects among 65 teams.
+- Scored in the 90th percentile on the Computer Science Major Field Test (CS MFT).
+- Awarded 2nd Place in the WiDS Datathon 2026 among Break Through Tech AI Fellows.
 
 ## 📰 Check out my Latest Publication!
 
 [**You Can Grow Here: A Therapeutic VR Journey for Anxiety Management**](https://dl.acm.org/doi/10.1145/3721250.3743037)
 
 **You Can Grow Here (YCGH)** is a Unity-based VR experience for anxiety management, combining immersive storytelling and design research. Featured at **SIGGRAPH 2025** as a finalist, the project achieved 90% positive user feedback on its therapeutic impact.
+
+## 👀 Another Publication On The Way....
+
+**You Can Grow Here (YCGH)** got accepted to HCII 2026 for the student design competition as one of the [thirty-three videos](https://2026.hci.international/Student_Design_Competition-Video_Presentations.html) to be presented at the conference in Montreal, Canada. 
 
 ## 🎖 Explore my Badges!
 
