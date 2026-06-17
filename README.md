@@ -40,8 +40,8 @@ Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more in
 
 ## 👩🏻‍💻 Skills 
 
-- **Software/AI:** Full-Stack Development, AI & Machine Learning, Data Analysis, Computer Vision, Cybersecurity
-- **Design/XR:** VR/AR Development, Game Development, UI/UX Design, Product Design, Graphic Design
+- **Software & AI:** Full-Stack Development, AI & Machine Learning, Data Analysis, Computer Vision, Cybersecurity
+- **Design & XR:** VR/AR Development, Game Development, UI/UX Design, Product Design, Graphic Design
 - **Professional:** Research, Leadership, Project Management, Strategic Planning, Mentorship
 
 ## ⚡ Fun Facts
