@@ -34,9 +34,9 @@ Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more in
 
 - **Languages:** Python, Java, React, JavaScript, HTML/CSS, C++, C, C#, SQL, Go 
 - **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, PyTorch, TensorFlow, OpenAI, Codex, Gemini, Anthropic, Ollama
-- **Systems:** Linux, Bash, Git  
 - **Tools:** Google Colab, GitHub, VS Code, Xcode, IntelliJ IDEA, PyCharm, Sublime Text  
 - **Design:** Unity, Maya, Figma, p5.js, Twine, Adobe Creative Cloud, Canva
+- **Systems:** Linux, Bash, Git  
 
 ## 👩🏻‍💻 Skills 
 
