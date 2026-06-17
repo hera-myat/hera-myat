@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hera Myat 
+# Khin Yuupar (Hera) Myat 
 **Bridging the gap between engineering precision and artistic expression.**
 
 ## 👩🏻 You've Found Me!
