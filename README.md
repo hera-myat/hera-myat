@@ -46,7 +46,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more in
 - **Design & XR:** VR/AR Development, Game Development, UI/UX Design, Product Design, Graphic Design
 - **Professional:** Research, Leadership, Project Management, Strategic Planning, Mentorship
 
-## ⚡ Fun Facts
+## ♟️ Fun Facts
 
 - 🥽 Conducted VR research using UIC's EVL CAVE2™ system.
 - 📱 Developed 2 VR and 1 AR applications for head-mounted displays.
