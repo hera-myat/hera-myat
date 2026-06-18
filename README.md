@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 # Khin Yuupar (Hera) Myat 
 **Bridging the gap between engineering precision and artistic expression.**
 
-![Demo](hera.gif)
-
 ## 👩🏻 You've Found Me!
 
 - Bachelor's in Computer Science @ [University of Illinois Chicago](https://www.uic.edu/)
