@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Prev. Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
 - Retired Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
 
-⭐ **Hera's Portfolio: https://sites.google.com/view/hera-myat-portfolio/home**
+⭐ **Hera's Portfolio: [https://sites.google.com/view/hera-myat-portfolio/home](https://tinyurl.com/hera-myat)**
 
 Check out my [LinkedIn](https://www.linkedin.com/in/khinyuuparmyat/) for more interesting facts about me!
 
