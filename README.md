@@ -1,5 +1,5 @@
 <!--
-**hera-myat/hera-myat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**katherine-myat/katherine-myat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Khin Yuupar (Hera) Myat 
+# Katherine Myat 
 **Bridging the gap between engineering precision and artistic expression.**
 
-![Demo](hera.gif)
+![Demo](katherine.gif)
 
 ## 👩🏻 You've Found Me!
 
@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 - Prev. Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
 - Retired Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
 
-⭐ **Hera's Portfolio: https://tinyurl.com/hera-myat**
+⭐ **Katherine's Portfolio: https://tinyurl.com/katherine-myat**
 
-Check out my [LinkedIn](https://www.linkedin.com/in/heramyat/) for more interesting facts about me!
+Check out my [LinkedIn](https://www.linkedin.com/in/katherinemyat/) for more interesting facts about me!
 
-<a href="https://www.linkedin.com/in/heramyat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.linkedin.com/in/heramyat/" target="_blank"><img src="https://img.shields.io/badge/Followers-1k+-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers"></a> <a href="https://github.com/hera-myat" target="_blank"><img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-Follow-236ad3?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/katherinemyat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.linkedin.com/in/katherinemyat/" target="_blank"><img src="https://img.shields.io/badge/Followers-1k+-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers"></a> <a href="https://github.com/katherine-myat" target="_blank"><img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-Follow-236ad3?style=for-the-badge&logo=github" /></a>
 
 ## 👩🏻‍💻 Tech-Stack
 
@@ -50,7 +50,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/heramyat/) for more interest
 
 - 🥽 Conducted VR research using UIC's EVL CAVE2™ system.
 - 📱 Developed 2 VR and 1 AR applications for head-mounted displays.
-- 🎮 Led the development of a game project as Project Manager, selected among the 65 proposals.
+- 🎮 Led the development of a game project as Project Manager, selected among 65 proposals.
 - 👩🏻‍🏫 Tutored ECE, Linux, and Computer Design at UIC's Engineering Learning Center for 3 years.
 - 👩🏻‍🏫 Served as an Undergraduate Teaching Assistant for a 400-level Creative Coding course, supporting both undergraduate and graduate students in the development of VR projects.
 - 📊 Scored in the 90th percentile on the Computer Science Major Field Test (CS MFT).
