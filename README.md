@@ -1,5 +1,5 @@
 <!--
-**katherine-myat/katherine-myat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hera-myat/hera-myat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Katherine Myat 
+# Hera Myat 
 **Bridging the gap between engineering precision and artistic expression.**
 
-![Demo](katherine.gif)
+![Demo](hera.gif)
 
 ## 👩🏻 You've Found Me!
 
@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 - Prev. Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
 - Retired Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
 
-⭐ **Katherine's Portfolio: https://tinyurl.com/katherine-myat**
+⭐ **Hera's Portfolio: https://tinyurl.com/hera-myat**
 
-Check out my [LinkedIn](https://www.linkedin.com/in/katherinemyat/) for more interesting facts about me!
+Check out my [LinkedIn](https://www.linkedin.com/in/heramyat/) for more interesting facts about me!
 
-<a href="https://www.linkedin.com/in/katherinemyat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.linkedin.com/in/katherinemyat/" target="_blank"><img src="https://img.shields.io/badge/Followers-1k+-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers"></a> <a href="https://github.com/katherine-myat" target="_blank"><img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-Follow-236ad3?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/heramyat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.linkedin.com/in/heramyat/" target="_blank"><img src="https://img.shields.io/badge/Followers-1k+-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers"></a> <a href="https://github.com/hera-myat" target="_blank"><img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-Follow-236ad3?style=for-the-badge&logo=github" /></a>
 
 ## 👩🏻‍💻 Tech-Stack
 
