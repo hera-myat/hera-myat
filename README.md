@@ -35,7 +35,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/katherinemyat/) for more int
 ## 👩🏻‍💻 Tech-Stack
 
 - **Languages:** Python, Java, React, JavaScript, HTML/CSS, C++, C, C#, SQL, Go 
-- **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, PyTorch, TensorFlow, OpenAI, Codex, Gemini, Anthropic, Ollama
+- **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, PyTorch, TensorFlow, APIs, OpenAI, Codex, Gemini, Anthropic, Claude, Ollama
 - **Tools:** Google Colab, GitHub, VS Code, Xcode, IntelliJ IDEA, PyCharm, Sublime Text  
 - **Design:** Unity, Maya, Figma, p5.js, Twine, Adobe Creative Cloud, Canva
 - **Systems:** Linux, Bash, Git  
@@ -43,7 +43,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/katherinemyat/) for more int
 ## 👩🏻‍💻 Skills 
 
 - **Software & AI:** Full-Stack Development, AI & Machine Learning, Data Analysis, Computer Vision, Cybersecurity
-- **Design & XR:** VR/AR Development, Game Development, UI/UX Design, Product Design, Graphic Design
+- **Design & XR:** VR/AR Development, Game Development, UI/UX Design, HCI, Product Design, Graphic Design
 - **Professional:** Research, Leadership, Project Management, Strategic Planning, Mentorship
 
 ## ⚡ Fun Facts
@@ -62,9 +62,9 @@ Check out my [LinkedIn](https://www.linkedin.com/in/katherinemyat/) for more int
 
 **You Can Grow Here (YCGH)** is a Unity-based VR experience for anxiety management, combining immersive storytelling and design research. Featured at **SIGGRAPH 2025** as a finalist, the project achieved 90% positive user feedback on its therapeutic impact.
 
-## 👀 Another Publication On The Way .... 
+## 🌟 Outstanding Achievement in HCI Research!
 
-**You Can Grow Here (YCGH)** has been accepted to the **HCII 2026** Student Design Competition as one of [**thirty-three selected video submissions**](https://2026.hci.international/Student_Design_Competition-Video_Presentations.html) to be presented at the conference in Montreal, Canada.
+**You Can Grow Here (YCGH)** was accepted to the **HCII 2026** Student Design Competition as one of [**thirty-three selected video submissions**](https://2026.hci.international/Student_Design_Competition-Video_Presentations.html) and presented at the conference in Montreal, Canada.
 
 ## 🎖 Explore my Badges!
 
@@ -103,6 +103,12 @@ Check out my [LinkedIn](https://www.linkedin.com/in/katherinemyat/) for more int
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+
+<!-- Artificial Intelligence & Machine Learning -->
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 
 <!-- Creative & Design -->
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
