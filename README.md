@@ -35,7 +35,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/katherinemyat/) for more int
 ## 👩🏻‍💻 Tech-Stack
 
 - **Languages:** Python, Java, React, JavaScript, HTML/CSS, C++, C, C#, SQL, Go 
-- **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, PyTorch, TensorFlow, APIs, OpenAI, Codex, Gemini, Anthropic, Claude, Ollama
+- **AI/ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, PyTorch, TensorFlow, APIs, Codex, Claude, Gemini, Ollama
 - **Tools:** Google Colab, GitHub, VS Code, Xcode, IntelliJ IDEA, PyCharm, Sublime Text  
 - **Design:** Unity, Maya, Figma, p5.js, Twine, Adobe Creative Cloud, Canva
 - **Systems:** Linux, Bash, Git  
