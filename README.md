@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Khin Yuupar (Hera) Myat 
 **Bridging the gap between engineering precision and artistic expression.**
 
-![Demo](hera.gif)
+![Demo](katherine.gif)
 
 ## 👩🏻 You've Found Me!
 
