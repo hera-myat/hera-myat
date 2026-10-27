@@ -1,5 +1,5 @@
 <!--
-**hera-myat/katherine-myat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hera-myat/hera-myat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
