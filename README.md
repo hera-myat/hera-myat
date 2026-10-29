@@ -135,7 +135,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/katherinemyat/) for more int
 ## 📈 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hera-myat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=1124BB&text_color=ffffff&bg_color=00000000&hide_rank=true&show_title=true" alt="Yuupar's GitHub Statistics" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hera-myat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=1124BB&text_color=ffffff&bg_color=00000000&hide_rank=true&show_title=true" alt="Kate's GitHub Statistics" height="180"/>
 </div>
 
 <div align="center">
