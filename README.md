@@ -44,7 +44,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/katherinemyat/) for more int
 
 - **Software & AI:** Full-Stack Development, AI & Machine Learning, Data Analysis, Computer Vision, Cybersecurity
 - **Design & XR:** VR/AR Development, Game Development, UI/UX Design, HCI, Product Design, Graphic Design
-- **Professional:** Research, Leadership, Project Management, Strategic Planning, Mentorship
+- **Professional:** Research, Leadership, Project Management, Strategic Planning, Mentorship, Marketing
 
 ## ⚡ Fun Facts
 
