@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - Bachelor's in Computer Science @ [University of Illinois Chicago](https://www.uic.edu/)
 - Dean's List & Academic Excellence Scholarship for 4 Years @ [University of Illinois Chicago](https://www.uic.edu/)
-- Recipient of Machine Learning Certificate & $2k Scholarship @ [Cornell Tech](https://tech.cornell.edu/)
+- Recipient of Machine Learning Certificate & Financial Scholarship @ [Cornell Tech](https://tech.cornell.edu/)
 - Prev. AI & Machine Learning Fellow @ [Salesforce](https://www.salesforce.com/)
 - Prev. Machine Learning Intern @ [Illinois Department of Transportation](https://idot.illinois.gov/)
 - Retired Vice President @ [Women in Cybersecurity - UIC Chapter](https://www.instagram.com/wicysatuic/)
